@@ -1,0 +1,7 @@
+##ignore the below mwntained file
+
+app.log
+*.log
+screates.json
+
+
